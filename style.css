@@ -1,0 +1,14 @@
+body{margin:0;background:#12081c;color:#fff7fb;font:16px/1.7 "Hiragino Maru Gothic ProN","Hiragino Sans",sans-serif}
+main{max-width:680px;margin:0 auto;padding:48px 20px}
+h1{font-size:30px;line-height:1.25;margin:0 0 8px;color:#ffc7e3}
+h2{font-size:19px;margin:32px 0 8px;color:#ffc7e3}
+.sub{color:#b9a4ff;font-weight:700;margin:0 0 24px}
+a{color:#ff9fcd}
+.card{background:#1e1030;border:1px solid #ffffff22;border-radius:16px;padding:18px 20px;margin:16px 0}
+.app{display:flex;gap:16px;align-items:center;text-decoration:none;color:inherit}
+.app img{width:72px;height:72px;border-radius:16px;object-fit:cover;background:#2a1840;flex:none}
+.app b{display:block;font-size:18px;color:#ffc7e3}
+.app span{font-size:14px;color:#d9cbe8}
+nav{font-size:14px;margin-bottom:24px}
+footer{color:#bfaecf;font-size:13px;margin-top:40px}
+footer a{color:#bfaecf}
