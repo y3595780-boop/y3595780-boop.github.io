@@ -1,2 +1,1 @@
-# app-ads.txt
-# AppLovinのアカウント作成後に、管理画面に表示される行をここに追加します
+google.com, pub-1296135948006488, DIRECT, f08c47fec0942fa0
